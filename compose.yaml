@@ -3,4 +3,4 @@ services:
     image: ghcr.io/ansocode/tut-status-board:1.0
     restart: always
     ports:
-      - "8099:80"
+      - "8100:80"
